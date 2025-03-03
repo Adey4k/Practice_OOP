@@ -5,6 +5,8 @@
 <br>
 Обчислити контрольну суму (хеш) [MD5](https://uk.wikipedia.org/wiki/MD5) для заданого слова (пароля)
 
+![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task1.jpg "Скріншот результату")
+
 --- 
 ## ЗАВДАННЯ 2
 ## ЗАВДАННЯ 3
