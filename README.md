@@ -21,6 +21,8 @@
 <br>
 Тестування програми:
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task2.2.jpg "Тестування програми")
+
+---
 ## ЗАВДАННЯ 3
 ## ЗАВДАННЯ 4
 ## ЗАВДАННЯ 5
