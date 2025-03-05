@@ -19,7 +19,7 @@
 [MainTest](https://github.com/Adey4k/Practice_OOP/blob/main/src/task2/MainTest.java) - Клас для тестування.<br>
 Фрагмент [Javadoc](https://github.com/Adey4k/Practice_OOP/blob/main/images/task2.3.png) документації.<br>
 <br>
-Тестування програми:
+[Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task2/MainTest.java) програми: програми:
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task2.2.jpg "Тестування програми")
 
 ---
@@ -37,13 +37,13 @@
 [Item2d](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/Item2d.java) - Клас для збереження вхідних даних та результатів обчислень.<br>
 [Main](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/Main.java) - Головний клас програми.<br>
 [MainTest](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/MainTest.java) - Клас для тестування.<br>
-[View]() - Інтерфейс для візуалізації даних.<br>
-[ViewResult]() - Реалізація інтерфейсу View для роботи з результатами обчислень.<br>
-[Viewable]() - Інтерфейс для створення об'єктів View.<br>
-[ViewableResult]() - Фабрика для створення об'єктів ViewResult.<br>
+[View](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/View.java) - Інтерфейс для візуалізації даних.<br>
+[ViewResult](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/ViewResult.java) - Реалізація інтерфейсу View для роботи з результатами обчислень.<br>
+Viewable(ViewableResult) - Інтерфейс для створення об'єктів View.<br>
+[ViewableResult](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/ViewableResult.java) - Фабрика для створення об'єктів ViewResult.<br>
 Фрагмент [Javadoc](https://github.com/Adey4k/Practice_OOP/blob/main/images/task3.3.png) документації.<br>
 <br>
-Тестування програми:
+[Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/MainTest.java) програми:
 
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task3.2.jpg "Тестування програми")
 
