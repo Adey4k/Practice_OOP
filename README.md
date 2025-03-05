@@ -44,7 +44,11 @@
 Фрагмент [Javadoc](https://github.com/Adey4k/Practice_OOP/blob/main/images/task3.3.png) документації.<br>
 <br>
 Тестування програми:
+
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task3.2.jpg "Тестування програми")
+
+---
+
 ## ЗАВДАННЯ 4
 ## ЗАВДАННЯ 5
 ## ЗАВДАННЯ 6
