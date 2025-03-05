@@ -19,7 +19,7 @@
 [MainTest](https://github.com/Adey4k/Practice_OOP/blob/main/src/task2/MainTest.java) - Клас для тестування.<br>
 Фрагмент [Javadoc](https://github.com/Adey4k/Practice_OOP/blob/main/images/task2.3.png) документації.<br>
 <br>
-[Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task2/MainTest.java) програми: програми:
+[Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task2/MainTest.java) програми:
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task2.2.jpg "Тестування програми")
 
 ---
