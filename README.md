@@ -43,6 +43,7 @@ Viewable(ViewableResult) - Інтерфейс для створення об'є�
 [ViewableResult](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/ViewableResult.java) - Фабрика для створення об'єктів ViewResult.<br>
 Фрагмент [Javadoc](https://github.com/Adey4k/Practice_OOP/blob/main/images/task3.3.png) документації.<br>
 <br>
+
 [Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task3/MainTest.java) програми:
 
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task3.2.jpg "Тестування програми")
