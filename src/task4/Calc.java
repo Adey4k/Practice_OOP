@@ -15,6 +15,10 @@ public class Calc {
         Item2d result = new Item2d(n1, n2, n3, n4, intY);
         results.add(result);
     }
+    
+    public void init(double n) {
+    init(n, n, n, n);
+}
 
     private int calc(double n1, double n2, double n3, double n4) {
         double rawY = (1000 * (Math.sin(Math.toRadians(n1)) +

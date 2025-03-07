@@ -10,15 +10,15 @@ interface Viewable {
 /**
  * Фабрика для створення об'єктів ViewResult.
  */
-class ViewableTable implements Viewable {
+class ViewableResult implements Viewable {
     private Calc calc;
 
-    public ViewableTable(Calc calc) {
+    public ViewableResult(Calc calc) {
         this.calc = calc;
     }
 
     @Override
     public View getView() {
-        return new ViewTable(calc);
+        return new ViewResult(calc);
     }
 }
