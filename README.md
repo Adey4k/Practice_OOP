@@ -125,14 +125,14 @@ Viewable(ViewableResult) - Інтерфейс для створення об'є�
 2. Управління чергою завдань (команд) реалізувати за допомогою шаблону Worker Thread.
 
 ![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task6.1.jpg "Скріншот результату")
-*Програма написана на основі кодів з минулої лабораторної роботи. Тепер програма використовує паралельну обробку елементів колекції для пошуку min, max, avg значень, а також використовує шаблон Worker Thread* <br><br>
+*Програма написана на основі кодів з минулої лабораторної роботи. Тепер програма використовує паралельну обробку елементів колекції для пошуку min, max, avg значень, а також використовує шаблон Worker Thread* <br>
 
 
 З нового:
-[CommandQueue](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/CommandQueue.java) - Відповідає за обробку потоків
-[MinCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MinCommand.java) - Рахує мінімальне значення
-[MaxCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MaxCommand.java) - Рахує максимальне значення
-[AvgCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/AvgCommand.java) - Рахує середнє значення
+[CommandQueue](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/CommandQueue.java) - Відповідає за обробку потоків <br>
+[MinCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MinCommand.java) - Рахує мінімальне значення <br>
+[MaxCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MaxCommand.java) - Рахує максимальне значення <br>
+[AvgCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/AvgCommand.java) - Рахує середнє значення <br>
 
 [Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MainTest.java) програми:
 
