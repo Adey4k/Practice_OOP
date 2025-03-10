@@ -129,10 +129,10 @@ Viewable(ViewableResult) - Інтерфейс для створення об'є�
 
 
 З нового:
-[CommandQueue]() - Відповідає за обробку потоків
-[MinCommand]() - Рахує мінімальне значення
-[MaxCommand]() - Рахує максимальне значення
-[AvgCommand]() - Рахує середнє значення
+[CommandQueue](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/CommandQueue.java) - Відповідає за обробку потоків
+[MinCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MinCommand.java) - Рахує мінімальне значення
+[MaxCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MaxCommand.java) - Рахує максимальне значення
+[AvgCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/AvgCommand.java) - Рахує середнє значення
 
 [Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MainTest.java) програми:
 
