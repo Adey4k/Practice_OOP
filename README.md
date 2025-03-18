@@ -134,10 +134,15 @@ Viewable(ViewableResult) - Інтерфейс для створення об'є�
 [MaxCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MaxCommand.java) - Рахує максимальне значення <br>
 [AvgCommand](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/AvgCommand.java) - Рахує середнє значення <br>
 
-[Тестування](https://github.com/Adey4k/Practice_OOP/blob/main/src/task6/MainTest.java) програми:
-
-![](https://github.com/Adey4k/Practice_OOP/blob/main/images/task6.2.jpg "Тестування програми")
-
----
 
 ## ЗАВДАННЯ 7
+
+**Поставлене завдання:**
+<br>
+Розробити графічний інтерфейс та реалізувати його для попередніх завдань
+
+
+![](https://github.com/Adey4k/Practice_OOP/blob/main/images/Task7.gif "Робота програми") <br>
+*Графічний інтерфейс використовує логіку минулих версій програми, а графічна частина реалізована за допомогою JFrame Form*
+
+---
